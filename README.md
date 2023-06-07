@@ -1,1 +1,3 @@
 # mario_bros_typescript
+
+Mario Bros but in browser. Developed in typescript. The goal of this is train an AI to play this game and test what happend if the mobs can be trained too...
